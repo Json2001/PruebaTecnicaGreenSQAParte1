@@ -66,7 +66,7 @@ output/
 
 ---
 
-## ▶️ Uso
+## Uso
 
 Ejecuta el script pasando la cantidad de usuarios como argumento:
 
